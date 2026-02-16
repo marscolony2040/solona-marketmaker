@@ -1,3 +1,10 @@
+# Solana Market Maker
+I forked this repository from voidloop and I built a Solana market making system which trades on Kraken. My system fetches the highest bid and quotes an order several depths away and edits the order until it has been filled. When the order has been filled I execute an algorithmic limit sell order and edit the price until it has been filled. This completes the trading cycle and recursively buys and sells in order to capture the bid/ask spread. My modifications are located in
+the folder trading_system. This is built fully with C++
+
+I also have a video on my YouTube channel MoQuant where I showcase how to build this system from scratch and the video can be found at this link
+![MarketMakingVideo](https://www.youtube.com/watch?v=cHwRqlpE0J8)
+
 krakenapi
 =========
 
