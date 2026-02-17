@@ -3,7 +3,7 @@ I forked this repository from voidloop and I built a Solana market making system
 the folder trading_system. This is built fully with C++
 
 I also have a video on my YouTube channel MoQuant where I showcase how to build this system from scratch and the video can be found at this link
-![MarketMakingVideo](https://www.youtube.com/watch?v=cHwRqlpE0J8)
+[MarketMakingVideo](https://www.youtube.com/watch?v=cHwRqlpE0J8)
 
 krakenapi
 =========
